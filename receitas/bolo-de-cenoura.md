@@ -2,7 +2,7 @@
 
 ## Ingretientes 
 
-3 cenouras médias
+4 cenouras médias
 3 ovos
 1 xícara de óleo
 2 xícaras de acucar
