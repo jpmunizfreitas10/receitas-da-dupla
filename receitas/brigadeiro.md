@@ -1,7 +1,7 @@
 # Brigadeiro
 
 ## Ingredientes
-- 1 lata de leite condensado
+- 2 lata de leite condensado
 - 2 colheres de chocolate em pó
 - 1 colher de manteiga
 - Granulado
